@@ -1,7 +1,6 @@
 # Driver Drowsiness Detection
 
-This project focuses on detecting driver drowsiness using computer vision and machine learning techniques.
-The system aims to improve road safety by identifying signs of driver fatigue in real time.
+A computer vision project using Python and OpenCV to detect driver drowsiness based on eye aspect ratio.
 
 ## Project Overview
 Driver drowsiness is one of the leading causes of road accidents.
